@@ -1,6 +1,7 @@
 package calculator2;
 
 public class Calculator {
+
     // 1. 속성
     private String brand;
     private String model;

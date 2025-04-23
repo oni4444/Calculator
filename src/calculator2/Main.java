@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
         Calculator car = new Calculator(); // 계산기 객체 선언
         Scanner sc = new Scanner(System.in); // 스캐너 선언
 
