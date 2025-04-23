@@ -11,7 +11,7 @@ public class Calculator {
     //
     Calculator () {
     this.brand = "onyx";
-    this.model = "zz";
+    this.model = "ino-44";
     this.version = 2;
     }
 
